@@ -35,7 +35,9 @@ Root 7’dir. 5, 7'den küçük olduğundan root'un solunda bulunur.
     1
      \
       3
+
 6, 7'den küçük 5'ten büyük olduğundan 5'in sağında bulunur.
+
         7
        / \
       5   8
@@ -43,7 +45,9 @@ Root 7’dir. 5, 7'den küçük olduğundan root'un solunda bulunur.
     1   6
      \
       3
+
 0; 7,5 ve 1'den küçük olduğundan 1'in solunda bulunur.
+
         7
        / \
       5   8
@@ -51,7 +55,9 @@ Root 7’dir. 5, 7'den küçük olduğundan root'un solunda bulunur.
     1   6
    / \
   0   3
+
 9, 7 ve 8'den büyük olduğundan 8'in sağında bulunur.
+
         7
        / \
       5   8
@@ -59,7 +65,9 @@ Root 7’dir. 5, 7'den küçük olduğundan root'un solunda bulunur.
     1   6   9
    / \
   0   3
+
 4, 7 ve 5'ten küçük 1 ve 3'ten büyük olduğundan 3'ün sağında bulunur.
+
         7
        / \
       5   8
@@ -69,7 +77,9 @@ Root 7’dir. 5, 7'den küçük olduğundan root'un solunda bulunur.
   0   3
        \
         4
+
 2,7 ve 5'ten küçük 1'den büyük ve 3'ten küçük olduğundan 3'ün soluna yazılır.
+
         7
        / \
       5   8
