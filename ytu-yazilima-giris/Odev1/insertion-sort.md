@@ -17,6 +17,7 @@ Proje 1- Insertion Sort
 O(n^2)
 
 3.Time Complexity
+
 Best case O(n): Aradığımız sayının dizinin en başında olması.
 
 Average case O(n^2): Aradığımız sayının ortada olması.
